@@ -5,7 +5,7 @@ Tool for count work time using commit references
 - Nodejs >=v16
 
 ### Installation
-1. Clone this repositoryK
+1. Clone this repository
 ```shell
 git clone https://github.com/ander7agar/git-time.git
 ```
